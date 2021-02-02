@@ -12,7 +12,7 @@
 
 [View on GitHub](https://github.com/Python-mini-project/Hospital-Schedule-Management-System)
 
-![GUI](https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png)
+<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png" alt="GUI" width=680 height=308>
 
 ---
 
