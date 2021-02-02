@@ -28,6 +28,6 @@
 
 [View on GitHub](https://github.com/DSA-Mini-Project/hospital-schedule-system)
 
-<img src="https://github.com/akashbagchi/portfolio/blob/main/images/mainmenu_withouttkinter.png" alt="mainmenu">
+<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/mainmenu_withouttkinter.png" alt="mainmenu">
 
 ---
