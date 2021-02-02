@@ -4,10 +4,30 @@
 
 ---
 
-## Technical Projects
+# Technical Projects
+
+### Python Programming:
+
+#### Hospital Schedule Management System
+
+[View on GitHub](https://github.com/Python-mini-project/Hospital-Schedule-Management-System)
+
+![GUI](https://github.com/akashbagchi/portfolio/blob/main/images/gui.png)
+
+---
+
+### C++ Programming:
+
+#### Planetary Orbit Mapper
+
+[View on GitHub](https://github.com/akashbagchi/planetary-orbit-mapper)
 
 ### C Programming:
 
 #### Hospital Schedule Management System
 
 [View on GitHub](https://github.com/DSA-Mini-Project/hospital-schedule-system)
+
+<img src="https://github.com/akashbagchi/portfolio/blob/main/images/mainmenu_withouttkinter.png" alt="mainmenu">
+
+---
