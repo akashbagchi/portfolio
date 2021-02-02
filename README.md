@@ -1,4 +1,4 @@
-# Portfolio - Akash Bagchi
+# Akash Bagchi
 ##### ENG19CS0019
 ##### Dayananda Sagar University, Kudlu Gate, Bangalore
 
