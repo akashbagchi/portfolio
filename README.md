@@ -51,7 +51,7 @@ Developed by myself, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _Dayana
 <center>
   <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/App%20not%20in%20tune%20mockup.png" alt="app when not in tune" height=400>          <img  src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/app%20in%20tune%20mockup.png" alt="app when in tune" height=400>          <img  src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/metronome%20mockup.png" alt="app in metronome mode" height=400>
 
-  <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/Pattern%20library.png" alt="Pattern library for app" height=50%>
+  <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/Pattern%20library.png" alt="Pattern library for app" height=20%>
 </center>
 
 Designed for the _Visual Elements of Interface Design_ Course offered by _California Institute of the Arts_
