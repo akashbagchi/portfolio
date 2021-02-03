@@ -55,6 +55,7 @@ Developed by myself, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _Dayana
 </center>
 
 Designed for the _Visual Elements of Interface Design_ Course offered by _California Institute of the Arts_
+
 Software used : Adobe XD
 
 ---
