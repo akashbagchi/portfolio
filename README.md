@@ -48,9 +48,11 @@ Developed by Akash Bagchi, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _
 
 [View on Behance]()
 
-<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/App%20not%20in%20tune%20mockup.png" alt="app when not in tune" height=400>          <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/app%20in%20tune%20mockup.png" alt="app when in tune" height=400>          <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/metronome%20mockup.png" alt="app in metronome mode" height=400>
+<center>
+  <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/App%20not%20in%20tune%20mockup.png" alt="app when not in tune" height=400>          <img  src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/app%20in%20tune%20mockup.png" alt="app when in tune" height=400>          <img  src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/metronome%20mockup.png" alt="app in metronome mode" height=400>
 
-<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/Pattern%20library.png" alt="Pattern library for app" height=500>
+  <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/Pattern%20library.png" alt="Pattern library for app" height=500>
+</center>
 
 Designed by Akash Bagchi for the _Visual Elements of Interface Design_ Course offered by _California Institute of the Arts_
 Software used : Adobe XD
