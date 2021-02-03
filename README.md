@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png" alt="GUI" width=680 height=308>
 
-Developed by Akash Bagchi, Akshaya Nadathur, Riya Mary Joseph, Sanchitha N G and Shraavya B K of _Dayananda Sagar University, Kudlu Gate_ as a mini-project for the course _Computational Thinking with Python_ in 2020.
+Developed by myself, Akshaya Nadathur, Riya Mary Joseph, Sanchitha N G and Shraavya B K of _Dayananda Sagar University, Kudlu Gate_ as a mini-project for the course _Computational Thinking with Python_ in 2020.
 
 ---
 
@@ -24,7 +24,7 @@ Developed by Akash Bagchi, Akshaya Nadathur, Riya Mary Joseph, Sanchitha N G and
 
 [View on GitHub](https://github.com/akashbagchi/planetary-orbit-mapper)
 
-Developed by Akash Bagchi and Dhruv Joshi of _Delhi Public School Bangalore South_ the final project for the _Computer Sciences_ course in 2019
+Developed by myself and Dhruv Joshi of _Delhi Public School Bangalore South_ the final project for the _Computer Sciences_ course in 2019
 
 ### C Programming:
 
@@ -34,7 +34,7 @@ Developed by Akash Bagchi and Dhruv Joshi of _Delhi Public School Bangalore Sout
 
 <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/mainmenu_withouttkinter.png" alt="mainmenu">
 
-Developed by Akash Bagchi, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _Dayananda Sagar University, Kudlu Gate_ as a mini-project for the course _Data Structures and Algorithms_ in 2020.
+Developed by myself, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _Dayananda Sagar University, Kudlu Gate_ as a mini-project for the course _Data Structures and Algorithms_ in 2020.
 
 ---
 
@@ -54,7 +54,7 @@ Developed by Akash Bagchi, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _
   <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/Pattern%20library.png" alt="Pattern library for app" height=500>
 </center>
 
-Designed by Akash Bagchi for the _Visual Elements of Interface Design_ Course offered by _California Institute of the Arts_
+Designed for the _Visual Elements of Interface Design_ Course offered by _California Institute of the Arts_
 Software used : Adobe XD
 
 ---
