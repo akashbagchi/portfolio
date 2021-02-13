@@ -12,7 +12,7 @@
 
 [View on GitHub](https://github.com/Python-mini-project/Hospital-Schedule-Management-System)
 
-<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png" alt="GUI" width="60%">
+<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png" alt="GUI" width="80%">
 
 Developed by myself, Akshaya Nadathur, Riya Mary Joseph, Sanchitha N G and Shraavya B K of _Dayananda Sagar University, Kudlu Gate_ as a mini-project for the course _Computational Thinking with Python_ in 2020.
 
