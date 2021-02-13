@@ -12,7 +12,9 @@
 
 [View on GitHub](https://github.com/Python-mini-project/Hospital-Schedule-Management-System)
 
-<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png" alt="GUI" width="90%" align="center">
+<center>
+<img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/gui.png" alt="GUI" width="90%">
+</center>
 
 Developed by myself, Akshaya Nadathur, Riya Mary Joseph, Sanchitha N G and Shraavya B K of _Dayananda Sagar University, Kudlu Gate_ as a mini-project for the course _Computational Thinking with Python_ in 2020.
 
@@ -46,8 +48,6 @@ Developed by myself, Akshaya Nadathur, Anirudh Preeth and Anup Venkat of _Dayana
 
 ##### "Blu-Tuna Guitar Tuner and Metronome"
 
-[View on Behance]()
-
 <center>
   <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/App%20not%20in%20tune%20mockup.png" alt="app when not in tune" height=400>          <img  src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/app%20in%20tune%20mockup.png" alt="app when in tune" height=400>          <img  src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/metronome%20mockup.png" alt="app in metronome mode" height=400>
 
@@ -60,3 +60,14 @@ Software used : Adobe XD
 
 ---
 
+#### Basic E-Commerce Website Design:
+
+##### Homespun handmade crafts online store
+
+<center>
+  <img src="https://raw.githubusercontent.com/akashbagchi/portfolio/main/images/homespun%20concept.png">
+</center>
+
+Software used : Adobe XD
+
+---
